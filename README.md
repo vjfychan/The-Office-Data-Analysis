@@ -3,8 +3,7 @@
 ### About Dataset: 
 #### Context  
 
-The Office is an American Mockumentary sitcom television series that depicts the everyday lives of a group of typical office employees  
-in the Scranton, Pennsylvania, branch of the fictional Dunder Mifflin Paper Company,  where the workday consists of ego clashes,  
+The Office is an American Mockumentary sitcom television series that depicts the everyday lives of a group of typical office employees in the Scranton, Pennsylvania, branch of the fictional Dunder Mifflin Paper Company, where the workday consists of ego clashes,
 inappropriate behavior, and tedium.
 
 #### Content
