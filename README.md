@@ -4,7 +4,8 @@ See notebook on NBViewer: https://nbviewer.org/github/vjfychan/The-Office-Data-A
 
 For this project, we will be analysing the American Mockumentary sitcom TV Series, The Office. This TV show epicts the everyday lives of a group of typical office employees in the Scranton, Pennsylvania, branch of the fictional Dunder Mifflin Paper Company, where the workday consists of ego clashes, inappropriate behavior, and tedium.  
 
-We will look into season and episode statistics as well as character relationships and statistics.  
+We will look into season and episode statistics as well as character relationships and statistics.   
+Findings are presented in a series interactive graphs and WordClouds.
 
 ### About Dataset: 
 Two datasets are used:   
